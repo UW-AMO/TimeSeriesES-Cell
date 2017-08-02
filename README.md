@@ -3,7 +3,7 @@
 This repository contains code for time series analysis, developed in the paper
 [Time Series Using Exponential Smoothing Cells](https://arxiv.org/abs/1706.02829)
 
-Overview
+#Overview
 ============
 
 Exponential smoothing (ES) techniques such as the Holt-Winters model, break down in challenging situations, including
@@ -17,3 +17,9 @@ The approach is built using the notion of linked ES cells, equipped with robust 
 detection and denoising. The links enforce time series structure but allow non-stationary signals.  
 
 
+#Experiments
+============
+
+The paper features two experiments: 
+* synthetic example illustrating the approach 
+* real twitter engagement dataset. 
