@@ -18,10 +18,10 @@ detection and denoising. The links enforce time series structure but allow non-s
 
 ## Experiments
 ---
-The paper features two experiments: 
+The code reproduces two experiments from the paper: 
 * [synthetic example](https://github.com/UW-AMO/TimeSeriesES-Cell/blob/master/Illustration%20-%20Paper%20-%20Synthetic%20Example.ipynb)
 * [twitter user engagement dataset](https://github.com/UW-AMO/TimeSeriesES-Cell/blob/master/Illustration%20-%20Paper%20-%20Twitter%20Data.ipynb) 
 
 ## Optimization
 ---
-Right now the problem is built and solved using cvx.py, which does not exploit [special problem structure.](https://arxiv.org/abs/1609.06369) Future releases will feature a custom solver. 
+The problem is currently built and solved using cvx.py, which does not exploit [special problem structure.](https://arxiv.org/abs/1609.06369) A custom solver that does is under development.  
