@@ -1,8 +1,13 @@
 # TimeSeriesES-Cell
 
 This repository contains code for time series analysis, developed in the paper:  
-[Time Series Using Exponential Smoothing Cells](https://arxiv.org/abs/1706.02829), 
-by Avner Abrami, Aleksandr Aravkin, and Younghun Kim. 
+[Time Series Using Exponential Smoothing Cells](https://arxiv.org/abs/1706.02829). 
+
+## Authors: 
+
+* [Avner Abrami](https://www.linkedin.com/in/avnerabrami/)  
+* [Aleksandr Aravkin](https://sites.google.com/site/saravkin/)
+* [Younghun Kim](https://www.linkedin.com/in/younghun-kim-20441249/)
 
 
 ## Overview
