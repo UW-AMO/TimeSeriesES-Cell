@@ -1,7 +1,9 @@
 # TimeSeriesES-Cell
 
 This repository contains code for time series analysis, developed in the paper:  
-[Time Series Using Exponential Smoothing Cells.](https://arxiv.org/abs/1706.02829)
+[Time Series Using Exponential Smoothing Cells.](https://arxiv.org/abs/1706.02829), 
+by Avner Abrami, Aleksandr Aravkin, and Younghun Kim. 
+
 
 ## Overview
 Exponential smoothing (ES) techniques such as the Holt-Winters model, break down in challenging situations, including
