@@ -1,7 +1,8 @@
 # TimeSeriesES-Cell
 
-This repository contains code for time series analysis, developed in the paper: 
-[Time Series Using Exponential Smoothing Cells.](https://arxiv.org/abs/1706.02829)
+This repository contains code for time series analysis, developed in the paper:  
+[Time Series Using Exponential Smoothing Cells.]
+(https://arxiv.org/abs/1706.02829)
 
 ## Overview
 ==============
