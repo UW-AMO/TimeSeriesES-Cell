@@ -4,12 +4,9 @@ This repository contains code for time series analysis, developed in the paper:
 [Time Series Using Exponential Smoothing Cells](https://arxiv.org/abs/1706.02829). 
 
 ## Authors: 
-Paper is written by
-* [Avner Abrami](https://www.linkedin.com/in/avnerabrami/)  
-* [Aleksandr Aravkin](https://sites.google.com/site/saravkin/)
-* [Younghun Kim](https://www.linkedin.com/in/younghun-kim-20441249/)
+Paper is written by [Avner Abrami](https://www.linkedin.com/in/avnerabrami/), [Aleksandr Aravkin](https://sites.google.com/site/saravkin/), and [Younghun Kim](https://www.linkedin.com/in/younghun-kim-20441249/)
 
-Original code in the repository was written by Avner Abrami. Further contributions are welcome. 
+Original code in the repository was written by [Avner Abrami](https://www.linkedin.com/in/avnerabrami/). Further contributions are welcome. 
 
 
 ## Overview
